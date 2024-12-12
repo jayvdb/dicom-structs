@@ -1,6 +1,6 @@
 # DICOM Structs
 
-Library and CLI interface for manipulating DICOM files, primarly focusing on DICOM to Parquet conversion and
+Library and CLI interface for manipulating DICOM files, primarily focusing on DICOM to Parquet conversion and
 the preparation of DICOM files for ingestion into a data warehouse. Note, [Data Wranger](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) is a great tool for inspecting Parquet files.
 
 ## Usage
